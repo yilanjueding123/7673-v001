@@ -1,0 +1,47 @@
+
+< 14-11-21 11:01:06 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&1df2f8d2&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI_svn6622\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2014/11/21 AM 11:01:07:754
+   Step 2 - End Time : 2014/11/21 AM 11:01:07:754
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2014/11/21 AM 11:01:07:754
+   Step 3 - End Time : 2014/11/21 AM 11:01:07:754
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2014/11/21 AM 11:01:07:754
+   Step 4 - End Time : 2014/11/21 AM 11:01:22:348
+   Step 4 ok! Spent Time: 14.594s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI_svn6622\Tools/gpcv1248_spifc_pack_/gp_cardvr_upgrade_222.bin
+   Step 5 - Start Time : 2014/11/21 AM 11:01:22:348
+   Step 5 - End Time : 2014/11/21 AM 11:01:28:566
+   Step 5 ok! Spent Time: 6.219s
+   USB Task Finished! Spent Time: 20.813s
+   Device is Pullouted.
+
+< 14-11-21 11:05:21 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&1df2f8d2&0#{53]
+   Device is Pullouted.
+
+< 14-11-21 11:22:01 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-21 11:24:53 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-21 11:32:06 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-21 11:32:35 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-21 11:33:43 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.

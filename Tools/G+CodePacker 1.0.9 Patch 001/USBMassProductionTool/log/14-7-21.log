@@ -1,0 +1,22 @@
+
+< 14-07-21 18:23:24 >==============================================
+Device is Inserted On Driver : [Hub8 Port1] [VER:0, SN:6&17c92802&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work2014\proj\GP15B\download\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2014/07/21 PM 06:23:26:161
+   Step 2 - End Time : 2014/07/21 PM 06:23:26:167
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2014/07/21 PM 06:23:26:167
+   Step 3 - End Time : 2014/07/21 PM 06:23:26:168
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2014/07/21 PM 06:23:26:168
+   Step 4 - End Time : 2014/07/21 PM 06:23:41:365
+   Step 4 ok! Spent Time: 15.194s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work2014\proj\GP15B\download/gp15bb/gp15b_spifc_pack_/gp_cardvr_upgrade_222.bin
+   Step 5 - Start Time : 2014/07/21 PM 06:23:41:365
+   Step 5 - End Time : 2014/07/21 PM 06:23:58:674
+   Step 5 ok! Spent Time: 17.301s
+   USB Task Finished! Spent Time: 32.511s

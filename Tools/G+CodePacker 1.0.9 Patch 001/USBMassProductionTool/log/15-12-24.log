@@ -1,0 +1,110 @@
+
+< 15-12-24 16:25:22 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/12/24 PM 04:25:37:582
+   Step 2 - End Time : 2015/12/24 PM 04:25:37:596
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/12/24 PM 04:25:37:596
+   Step 3 - End Time : 2015/12/24 PM 04:25:37:597
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/12/24 PM 04:25:37:597
+   Step 4 - End Time : 2015/12/24 PM 04:25:51:344
+   Step 4 ok! Spent Time: 13.744s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools/gpcv1248_spifc_pack_/vvv.bin
+   Step 5 - Start Time : 2015/12/24 PM 04:25:51:344
+   Step 5 - End Time : 2015/12/24 PM 04:25:53:896
+   Step 5 ok! Spent Time: 2.558s
+   USB Task Finished! Spent Time: 16.317s
+
+< 15-12-24 16:50:48 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/12/24 PM 04:50:53:993
+   Step 2 - End Time : 2015/12/24 PM 04:50:54:03
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/12/24 PM 04:50:54:03
+   Step 3 - End Time : 2015/12/24 PM 04:50:54:03
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/12/24 PM 04:50:54:03
+   Step 4 - End Time : 2015/12/24 PM 04:51:07:799
+   Step 4 ok! Spent Time: 13.790s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools/gpcv1248_spifc_pack_/vvv.bin
+   Step 5 - Start Time : 2015/12/24 PM 04:51:07:799
+   Step 5 - End Time : 2015/12/24 PM 04:51:10:347
+   Step 5 ok! Spent Time: 2.559s
+   USB Task Finished! Spent Time: 16.365s
+
+< 15-12-24 17:11:48 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/12/24 PM 05:11:54:131
+   Step 2 - End Time : 2015/12/24 PM 05:11:54:141
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/12/24 PM 05:11:54:141
+   Step 3 - End Time : 2015/12/24 PM 05:11:54:141
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/12/24 PM 05:11:54:141
+   Step 4 - End Time : 2015/12/24 PM 05:12:07:893
+   Step 4 ok! Spent Time: 13.743s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools/gpcv1248_spifc_pack_/vvv.bin
+   Step 5 - Start Time : 2015/12/24 PM 05:12:07:893
+   Step 5 - End Time : 2015/12/24 PM 05:12:10:443
+   Step 5 ok! Spent Time: 2.559s
+   USB Task Finished! Spent Time: 16.318s
+
+< 15-12-24 18:48:08 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/12/24 PM 06:48:30:816
+   Step 2 - End Time : 2015/12/24 PM 06:48:30:831
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/12/24 PM 06:48:30:831
+   Step 3 - End Time : 2015/12/24 PM 06:48:30:831
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/12/24 PM 06:48:30:831
+   Step 4 - End Time : 2015/12/24 PM 06:48:44:583
+   Step 4 ok! Spent Time: 13.744s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools/gpcv1248_spifc_pack_/vvv.bin
+   Step 5 - Start Time : 2015/12/24 PM 06:48:44:583
+   Step 5 - End Time : 2015/12/24 PM 06:48:47:153
+   Step 5 ok! Spent Time: 2.574s
+   USB Task Finished! Spent Time: 16.333s
+
+< 15-12-24 18:51:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/12/24 PM 06:52:06:68
+   Step 2 - End Time : 2015/12/24 PM 06:52:06:84
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/12/24 PM 06:52:06:84
+   Step 3 - End Time : 2015/12/24 PM 06:52:06:84
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/12/24 PM 06:52:06:84
+   Step 4 - End Time : 2015/12/24 PM 06:52:19:847
+   Step 4 ok! Spent Time: 13.760s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\To_Xingyong\JH1247\JH1247_SVN7858_20151224\Tools/gpcv1248_spifc_pack_/vvv.bin
+   Step 5 - Start Time : 2015/12/24 PM 06:52:19:847
+   Step 5 - End Time : 2015/12/24 PM 06:52:22:391
+   Step 5 ok! Spent Time: 2.542s
+   USB Task Finished! Spent Time: 16.317s

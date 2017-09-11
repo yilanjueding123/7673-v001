@@ -1,0 +1,88 @@
+
+< 15-08-27 11:03:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/08/27 AM 11:03:51:906
+   Step 2 - End Time : 2015/08/27 AM 11:03:51:920
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/08/27 AM 11:03:51:920
+   Step 3 - End Time : 2015/08/27 AM 11:03:51:922
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/08/27 AM 11:03:51:922
+   Step 4 - End Time : 2015/08/27 AM 11:04:02:475
+   Step 4 ok! Spent Time: 10.561s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools/gpcv1248_spifc_pack_/a.bin
+   Step 5 - Start Time : 2015/08/27 AM 11:04:02:475
+   Step 5 - End Time : 2015/08/27 AM 11:04:05:41
+   Step 5 ok! Spent Time: 2.558s
+   USB Task Finished! Spent Time: 13.135s
+
+< 15-08-27 11:09:55 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/08/27 AM 11:10:01:04
+   Step 2 - End Time : 2015/08/27 AM 11:10:01:17
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/08/27 AM 11:10:01:17
+   Step 3 - End Time : 2015/08/27 AM 11:10:01:19
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/08/27 AM 11:10:01:19
+   Step 4 - End Time : 2015/08/27 AM 11:10:11:550
+   Step 4 ok! Spent Time: 10.530s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools/gpcv1248_spifc_pack_/b.bin
+   Step 5 - Start Time : 2015/08/27 AM 11:10:11:550
+   Step 5 - End Time : 2015/08/27 AM 11:10:14:132
+   Step 5 ok! Spent Time: 2.589s
+   USB Task Finished! Spent Time: 13.135s
+
+< 15-08-27 13:51:11 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/08/27 PM 01:51:27:728
+   Step 2 - End Time : 2015/08/27 PM 01:51:27:744
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/08/27 PM 01:51:27:744
+   Step 3 - End Time : 2015/08/27 PM 01:51:27:744
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/08/27 PM 01:51:27:744
+   Step 4 - End Time : 2015/08/27 PM 01:51:41:665
+   Step 4 ok! Spent Time: 13.915s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools/gpcv1248_spifc_pack_/b.bin
+   Step 5 - Start Time : 2015/08/27 PM 01:51:41:665
+   Step 5 - End Time : 2015/08/27 PM 01:51:44:348
+   Step 5 ok! Spent Time: 2.684s
+   USB Task Finished! Spent Time: 16.614s
+
+< 15-08-27 13:56:16 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/08/27 PM 01:56:24:210
+   Step 2 - End Time : 2015/08/27 PM 01:56:24:225
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/08/27 PM 01:56:24:225
+   Step 3 - End Time : 2015/08/27 PM 01:56:24:225
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/08/27 PM 01:56:24:225
+   Step 4 - End Time : 2015/08/27 PM 01:56:38:177
+   Step 4 ok! Spent Time: 13.947s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\G15B_LeXin_Helicopter_SPIFC_SVN7329-0806\Tools/gpcv1248_spifc_pack_/ccc.bin
+   Step 5 - Start Time : 2015/08/27 PM 01:56:38:177
+   Step 5 - End Time : 2015/08/27 PM 01:56:40:860
+   Step 5 ok! Spent Time: 2.668s
+   USB Task Finished! Spent Time: 16.646s

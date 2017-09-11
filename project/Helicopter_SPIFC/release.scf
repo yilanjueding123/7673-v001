@@ -1,0 +1,72 @@
+;ROM_LOAD 0x30000400 0x800000
+ROM_LOAD 0x00000000 0x800000
+{
+    ;ROM1 0x30000400 0x800000
+    ROM1 0x00000000 0x800000
+    {
+        startup.o (StartUp, +FIRST)
+        * (+RO)
+
+    }
+
+    ;RAM1 0x00000200 0x200000
+    RAM1 +0
+    {
+        * (+RW,+ZI)
+    }
+    
+    ROM3 0xF8036900 0x1A00
+    {
+        drv_l1_spifc.o
+    	drv_l2_spifc.o    
+        drv_l1_ext_mode.o
+		spi_flash_mxic.o
+		ap_state_firmware_upgrade.o
+    }
+    
+    ;ROM5 0x1E5B80 0x1A480
+    ;{
+    ;	my_video_codec_callback.o
+	;	AviPackerV3.o
+	;	drv_l2_usbd_msdc.o
+	;	drv_l2_usbd.o
+	;	drv_l1_usbd.o
+		
+	;	drv_l1_spi.o
+    ;   driver_l2_init.o
+    ;    system_timer.o
+    ;    gplib_mm_gplus.o
+    ;    gplib_init.o
+    ;    gplib_jpeg.o
+    ;    gplib_jpeg_encode.o
+    ;    gp_stdlib.o
+	;	os_cpu_c.o
+	;	os_cpu_a.o
+	;	drv_l1_interrupt.o
+	;	drv_l1_dma.o 
+	;	drv_l1_jpeg.o 
+	;	drv_l1_cdsp.o 
+	;	drv_l1_timer.o 
+	;	drv_l2_sd.o
+	;	drv_l1_sdc.o	
+		
+	;	msg_manager.o
+	;	ap_peripheral_handling.o
+    ;   task_peripheral_handling.o	
+    ;    drv_l1_gpio.o	
+    ;    drv_l1_scaler.o
+    ;    drv_l1_sensor.o	
+    ;    drv_l1_sw_timer.o
+    ;    drv_l1_sw_timer_isr.o
+    ;    drv_l1_system.o	
+    ;    drv_l2_cdsp.o
+    ;    sensor_isp_table.o
+    ;    drv_l2_sensor.o
+    ;    sensor_gc1004.o	
+    ;}
+
+	VECTOR 0xF8400000
+	{
+		startup.o (ExceptionHandler)
+	}
+}

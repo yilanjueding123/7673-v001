@@ -1,0 +1,22 @@
+
+< 14-11-06 14:12:18 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&1df2f8d2&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2014/11/06 PM 02:12:20:40
+   Step 2 - End Time : 2014/11/06 PM 02:12:20:56
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2014/11/06 PM 02:12:20:56
+   Step 3 - End Time : 2014/11/06 PM 02:12:20:56
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2014/11/06 PM 02:12:20:56
+   Step 4 - End Time : 2014/11/06 PM 02:12:33:821
+   Step 4 ok! Spent Time: 13.766s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools/gpcv1248_spifc_pack_/gp_cardvr_upgrade_222.bin
+   Step 5 - Start Time : 2014/11/06 PM 02:12:33:821
+   Step 5 - End Time : 2014/11/06 PM 02:12:49:258
+   Step 5 ok! Spent Time: 15.437s
+   USB Task Finished! Spent Time: 29.219s

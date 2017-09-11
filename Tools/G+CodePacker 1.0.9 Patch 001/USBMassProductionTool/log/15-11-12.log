@@ -1,0 +1,201 @@
+
+< 15-11-12 11:01:42 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 AM 11:01:55:18
+   Step 2 - End Time : 2015/11/12 AM 11:01:55:34
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 AM 11:01:55:34
+   Step 3 - End Time : 2015/11/12 AM 11:01:55:34
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 AM 11:01:55:34
+   Step 4 - End Time : 2015/11/12 AM 11:02:08:965
+   Step 4 ok! Spent Time: 13.931s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools/gpcv1248_spifc_pack_/ttt.bin
+   Step 5 - Start Time : 2015/11/12 AM 11:02:08:965
+   Step 5 - End Time : 2015/11/12 AM 11:02:11:492
+   Step 5 ok! Spent Time: 2.527s
+   USB Task Finished! Spent Time: 16.473s
+
+< 15-11-12 11:11:46 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 AM 11:11:54:358
+   Step 2 - End Time : 2015/11/12 AM 11:11:54:373
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 AM 11:11:54:373
+   Step 3 - End Time : 2015/11/12 AM 11:11:54:373
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 AM 11:11:54:373
+   Step 4 - End Time : 2015/11/12 AM 11:12:08:312
+   Step 4 ok! Spent Time: 13.947s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools/gpcv1248_spifc_pack_/ttt.bin
+   Step 5 - Start Time : 2015/11/12 AM 11:12:08:312
+   Step 5 - End Time : 2015/11/12 AM 11:12:10:839
+   Step 5 ok! Spent Time: 2.527s
+   USB Task Finished! Spent Time: 16.489s
+
+< 15-11-12 11:19:31 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 AM 11:19:40:382
+   Step 2 - End Time : 2015/11/12 AM 11:19:40:397
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 AM 11:19:40:397
+   Step 3 - End Time : 2015/11/12 AM 11:19:40:397
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 AM 11:19:40:397
+   Step 4 - End Time : 2015/11/12 AM 11:19:54:292
+   Step 4 ok! Spent Time: 13.931s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools/gpcv1248_spifc_pack_/ttt.bin
+   Step 5 - Start Time : 2015/11/12 AM 11:19:54:293
+   Step 5 - End Time : 2015/11/12 AM 11:19:56:825
+   Step 5 ok! Spent Time: 2.527s
+   USB Task Finished! Spent Time: 16.473s
+
+< 15-11-12 15:05:10 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 03:05:17:36
+   Step 2 - End Time : 2015/11/12 PM 03:05:17:51
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 03:05:17:51
+   Step 3 - End Time : 2015/11/12 PM 03:05:17:51
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 03:05:17:51
+   Step 4 - End Time : 2015/11/12 PM 03:05:27:585
+   Step 4 ok! Spent Time: 10.530s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7756\Tools/gpcv1248_spifc_pack_/ttt.bin
+   Step 5 - Start Time : 2015/11/12 PM 03:05:27:585
+   Step 5 - End Time : 2015/11/12 PM 03:05:30:03
+   Step 5 ok! Spent Time: 2.418s
+   USB Task Finished! Spent Time: 12.963s
+
+< 15-11-12 18:56:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port3] [VER:0, SN:6&25745d05&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 06:57:12:285
+   Step 2 - End Time : 2015/11/12 PM 06:57:12:285
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 06:57:12:285
+   Step 3 - End Time : 2015/11/12 PM 06:57:12:300
+   Step 3 ok! Spent Time: 0.15s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 06:57:12:300
+   Step 4 - End Time : 2015/11/12 PM 06:57:22:836
+   Step 4 ok! Spent Time: 10.546s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools/gpcv1248_spifc_pack_/rrr.bin
+   Step 5 - Start Time : 2015/11/12 PM 06:57:22:836
+   Step 5 - End Time : 2015/11/12 PM 06:57:25:241
+   Step 5 ok! Spent Time: 2.403s
+   USB Task Finished! Spent Time: 12.964s
+
+< 15-11-12 19:05:26 >==============================================
+Device is Inserted On Driver : [Hub1 Port4] [VER:0, SN:6&382e0daa&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 07:05:39:507
+   Step 2 - End Time : 2015/11/12 PM 07:05:39:507
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 07:05:39:507
+   Step 3 - End Time : 2015/11/12 PM 07:05:39:507
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 07:05:39:507
+   Step 4 - End Time : 2015/11/12 PM 07:05:45:518
+   Step 4 ok! Spent Time: 6.21s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools/gpcv1248_spifc_pack_/rrr.bin
+   Step 5 - Start Time : 2015/11/12 PM 07:05:45:518
+   Step 5 - End Time : 2015/11/12 PM 07:05:48:281
+   Step 5 ok! Spent Time: 2.761s
+   USB Task Finished! Spent Time: 8.782s
+
+< 15-11-12 19:52:42 >==============================================
+Device is Inserted On Driver : [Hub1 Port4] [VER:0, SN:6&382e0daa&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 07:52:57:452
+   Step 2 - End Time : 2015/11/12 PM 07:52:57:452
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 07:52:57:452
+   Step 3 - End Time : 2015/11/12 PM 07:52:57:452
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 07:52:57:452
+   Step 4 - End Time : 2015/11/12 PM 07:53:03:711
+   Step 4 ok! Spent Time: 6.256s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools/gpcv1248_spifc_pack_/rrr.bin
+   Step 5 - Start Time : 2015/11/12 PM 07:53:03:711
+   Step 5 - End Time : 2015/11/12 PM 07:53:06:475
+   Step 5 ok! Spent Time: 2.777s
+   USB Task Finished! Spent Time: 9.33s
+
+< 15-11-12 19:57:20 >==============================================
+Device is Inserted On Driver : [Hub1 Port4] [VER:0, SN:6&382e0daa&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 07:57:26:415
+   Step 2 - End Time : 2015/11/12 PM 07:57:26:415
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 07:57:26:431
+   Step 3 - End Time : 2015/11/12 PM 07:57:26:431
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 07:57:26:431
+   Step 4 - End Time : 2015/11/12 PM 07:57:31:988
+   Step 4 ok! Spent Time: 5.569s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools/gpcv1248_spifc_pack_/rrr.bin
+   Step 5 - Start Time : 2015/11/12 PM 07:57:31:988
+   Step 5 - End Time : 2015/11/12 PM 07:57:34:769
+   Step 5 ok! Spent Time: 2.777s
+   USB Task Finished! Spent Time: 8.362s
+
+< 15-11-12 20:01:08 >==============================================
+Device is Inserted On Driver : [Hub1 Port4] [VER:0, SN:6&382e0daa&0#{53]
+
+< 15-11-12 20:01:52 >==============================================
+Device is Inserted On Driver : [Hub1 Port4] [VER:0, SN:6&382e0daa&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/11/12 PM 08:02:03:363
+   Step 2 - End Time : 2015/11/12 PM 08:02:03:363
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/11/12 PM 08:02:03:363
+   Step 3 - End Time : 2015/11/12 PM 08:02:03:363
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/11/12 PM 08:02:03:363
+   Step 4 - End Time : 2015/11/12 PM 08:02:08:966
+   Step 4 ok! Spent Time: 5.616s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\temp\test_code\GP15B\L7172_photo_change_rework\noSDRAM\L7459_SPI_NOSDRAM\GPCV1241toGPCV1237_SVN7757\Tools/gpcv1248_spifc_pack_/rrr.bin
+   Step 5 - Start Time : 2015/11/12 PM 08:02:08:966
+   Step 5 - End Time : 2015/11/12 PM 08:02:11:745
+   Step 5 ok! Spent Time: 2.777s
+   USB Task Finished! Spent Time: 8.393s

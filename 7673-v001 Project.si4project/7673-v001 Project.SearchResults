@@ -1,0 +1,5 @@
+---- NAND_WP_PIN Matches (4 in 2 files) ----
+driver_l1_cfg.h (project\Helicopter_SPIFC\inc) line 84 : #define NAND_WP_IO                  NAND_WP_PIN
+driver_l1_cfg.h (project\Helicopter_SPIFC\inc) line 169 :     #define NAND_WP_PIN_NONE                0xFF
+driver_l1_cfg.h (project\Helicopter_SPIFC\inc) line 170 : 	#define NAND_WP_PIN						IO_E3//0x08//IO_A8
+gpio_pad_init2 in drv_l1_gpio.c (driver_l1\common\src) :    #if (defined NAND_WP_IO) && (NAND_WP_IO!=NAND_WP_PIN_NONE)

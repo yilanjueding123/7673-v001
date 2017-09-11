@@ -1,0 +1,167 @@
+English 
+Video
+Still
+Playback
+Setup
+Resolution
+Loop recording
+Exposure
+Motion Detection
+Record Audio
+Date Stamp
+Gsensor
+LDW
+1080FHD 1920X1080
+1080P 1440X1080
+720P 1280X720
+WVGA 848X480
+VGA 640X480
+QVGA 320X240
+Off
+1 Minutes
+2 Minutes
+3 Minutes
+5 Minutes
+10 Minutes
++2.0
++5/3
++4/3
++1.0
++2/3
++1/3
++0.0
+-1/3
+-2/3
+-1.0
+-4/3
+-5/3
+-2.0
+Off
+On
+Off
+2G
+4G
+8G
+On/Off
+Car type
+Sensitivity
+Area Choice
+Start Speed
+On\Off Sound 
+Sedan Car
+Commercial Vehicles
+Truck
+Low
+High
+Unlimited
+China
+Taiwan
+Hi-speed start
+Low-speed start
+Lowlow-speed start
+Resolution
+Sequence
+Quality
+Sharpness
+White Balance
+ISO
+Exposure
+Anti-Shaking
+Quick Review
+Date Stamp
+2S Timer
+5S Timer
+10S Timer
+12M 4032X3024
+10M 3648X2736
+8M 3264X2448
+5M 2592X1944
+3M 2048X1536
+2MHD 1920X1080
+1.3M 1280x960
+VGA 640X480
+Fine
+Normal
+Economy
+Strong
+Normal
+Soft
+Auto
+Daylight
+Cloudy
+Tungsten
+Fluorescent
+Auto
+100
+200
+400
+Off
+Date
+Date/Time
+Delete
+Protect
+Delete Current
+Delete All
+Cancel
+OK
+Lock Current
+Unlock Current
+Lock ALL
+Unlock ALL
+Off
+2 Seconds
+5 Seconds
+8 Seconds
+Park mode
+Date/Time
+Auto power off
+Screen Saver
+Beep Sound
+Language
+TV Mode
+Frequency
+Flash
+Format
+Default Setting
+Version
+Off
+1 Minutes
+3 Minutes
+Off
+3 Minutes
+5 Minutes
+10 Minutes
+Off
+10 Seconds
+20 Seconds
+30 Seconds
+NTSC
+PAL
+50Hz
+60Hz
+Return menu setting
+to defaults
+SD Card
+All data will be
+deleted
+PLEASE INSERT SD CARD
+No Card
+Mass Storage
+PC Camera
+No File
+battery Low
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+SD Card FULL
+Please Wait
+Protected!
+USB
+SDC Error/Please format

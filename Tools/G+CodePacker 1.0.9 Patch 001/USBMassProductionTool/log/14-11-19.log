@@ -1,0 +1,94 @@
+
+< 14-11-19 09:41:20 >==============================================
+Device is Inserted On Driver : [Hub65535 Port65535] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 09:41:51 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 09:42:58 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 09:47:59 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 10:41:37 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 10:41:57 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 10:42:03 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&2d3ef15f&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2014/11/19 AM 10:42:06:716
+   Step 2 - End Time : 2014/11/19 AM 10:42:06:716
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2014/11/19 AM 10:42:06:716
+   Step 3 - End Time : 2014/11/19 AM 10:42:06:716
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2014/11/19 AM 10:42:06:716
+   Step 4 - End Time : 2014/11/19 AM 10:42:19:890
+   Step 4 ok! Spent Time: 13.172s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools/gpcv1248_spifc_pack_/gp_cardvr_upgrade_222.bin
+   Step 5 - Start Time : 2014/11/19 AM 10:42:19:890
+   Step 5 - End Time : 2014/11/19 AM 10:42:26:47
+   Step 5 ok! Spent Time: 6.156s
+   USB Task Finished! Spent Time: 19.328s
+   Device is Pullouted.
+
+< 14-11-19 15:20:50 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 15:21:08 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&34ddf724&0#{53]
+   Device is Pullouted.
+
+< 14-11-19 15:21:21 >==============================================
+Device is Inserted On Driver : [Hub1 Port1] [VER:0, SN:6&2d3ef15f&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools\G+CodePacker 1.0.9 Patch 001\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2014/11/19 PM 03:21:25:249
+   Step 2 - End Time : 2014/11/19 PM 03:21:25:249
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2014/11/19 PM 03:21:25:249
+   Step 3 - End Time : 2014/11/19 PM 03:21:25:249
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2014/11/19 PM 03:21:25:249
+   Step 4 - End Time : 2014/11/19 PM 03:21:38:437
+   Step 4 ok! Spent Time: 13.187s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: E:\study\mission\GP15B\code\G15B_NovaTek_UI\Tools/gpcv1248_spifc_pack_/gp_cardvr_upgrade_222.bin
+   Step 5 - Start Time : 2014/11/19 PM 03:21:38:437
+   Step 5 - End Time : 2014/11/19 PM 03:21:44:515
+   Step 5 ok! Spent Time: 6.78s
+   USB Task Finished! Spent Time: 19.265s
+   Device is Pullouted.
+
+< 14-11-20 11:16:11 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-20 13:38:41 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-20 16:29:36 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
+
+< 14-11-20 16:51:48 >==============================================
+Device is Inserted On Driver : [Hub1 Port5] [VER:0, SN:6&88f25aa&0#{53f]
+   Device is Pullouted.
